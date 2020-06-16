@@ -8,4 +8,4 @@ spaceship and drags it along the bottom part of the device screen. The bullets w
 shoot, so the player will need to aim for the aliens. This playground uses three frameworks: 
 SpriteKit, UIKit, and PlaygroundSupport. 
 
-This playground was submitted to the first Apple Swift Student Challenge for WWDC 2020.
+My playground was submitted to the Apple WWDC20 Swift Student Challenge.
